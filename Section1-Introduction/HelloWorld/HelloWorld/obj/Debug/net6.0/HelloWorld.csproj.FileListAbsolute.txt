@@ -1,0 +1,15 @@
+E:\github_project\2023\C#\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.exe
+E:\github_project\2023\C#\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.deps.json
+E:\github_project\2023\C#\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.runtimeconfig.json
+E:\github_project\2023\C#\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.dll
+E:\github_project\2023\C#\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.pdb
+E:\github_project\2023\C#\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+E:\github_project\2023\C#\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfoInputs.cache
+E:\github_project\2023\C#\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfo.cs
+E:\github_project\2023\C#\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.CoreCompileInputs.cache
+E:\github_project\2023\C#\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.sourcelink.json
+E:\github_project\2023\C#\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.dll
+E:\github_project\2023\C#\HelloWorld\HelloWorld\obj\Debug\net6.0\refint\HelloWorld.dll
+E:\github_project\2023\C#\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.pdb
+E:\github_project\2023\C#\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.genruntimeconfig.cache
+E:\github_project\2023\C#\HelloWorld\HelloWorld\obj\Debug\net6.0\ref\HelloWorld.dll

@@ -1,0 +1,15 @@
+E:\github_project\2023\C#\OldStyleApp\OldStyleApp\bin\Debug\net6.0\OldStyleApp.exe
+E:\github_project\2023\C#\OldStyleApp\OldStyleApp\bin\Debug\net6.0\OldStyleApp.deps.json
+E:\github_project\2023\C#\OldStyleApp\OldStyleApp\bin\Debug\net6.0\OldStyleApp.runtimeconfig.json
+E:\github_project\2023\C#\OldStyleApp\OldStyleApp\bin\Debug\net6.0\OldStyleApp.dll
+E:\github_project\2023\C#\OldStyleApp\OldStyleApp\bin\Debug\net6.0\OldStyleApp.pdb
+E:\github_project\2023\C#\OldStyleApp\OldStyleApp\obj\Debug\net6.0\OldStyleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\github_project\2023\C#\OldStyleApp\OldStyleApp\obj\Debug\net6.0\OldStyleApp.AssemblyInfoInputs.cache
+E:\github_project\2023\C#\OldStyleApp\OldStyleApp\obj\Debug\net6.0\OldStyleApp.AssemblyInfo.cs
+E:\github_project\2023\C#\OldStyleApp\OldStyleApp\obj\Debug\net6.0\OldStyleApp.csproj.CoreCompileInputs.cache
+E:\github_project\2023\C#\OldStyleApp\OldStyleApp\obj\Debug\net6.0\OldStyleApp.sourcelink.json
+E:\github_project\2023\C#\OldStyleApp\OldStyleApp\obj\Debug\net6.0\OldStyleApp.dll
+E:\github_project\2023\C#\OldStyleApp\OldStyleApp\obj\Debug\net6.0\refint\OldStyleApp.dll
+E:\github_project\2023\C#\OldStyleApp\OldStyleApp\obj\Debug\net6.0\OldStyleApp.pdb
+E:\github_project\2023\C#\OldStyleApp\OldStyleApp\obj\Debug\net6.0\OldStyleApp.genruntimeconfig.cache
+E:\github_project\2023\C#\OldStyleApp\OldStyleApp\obj\Debug\net6.0\ref\OldStyleApp.dll

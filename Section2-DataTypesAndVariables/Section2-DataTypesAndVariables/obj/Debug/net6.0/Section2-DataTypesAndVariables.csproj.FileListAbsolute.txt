@@ -1,0 +1,15 @@
+E:\github_project\2023\C#\Section2-DataTypesAndVariables\Section2-DataTypesAndVariables\bin\Debug\net6.0\Section2-DataTypesAndVariables.exe
+E:\github_project\2023\C#\Section2-DataTypesAndVariables\Section2-DataTypesAndVariables\bin\Debug\net6.0\Section2-DataTypesAndVariables.deps.json
+E:\github_project\2023\C#\Section2-DataTypesAndVariables\Section2-DataTypesAndVariables\bin\Debug\net6.0\Section2-DataTypesAndVariables.runtimeconfig.json
+E:\github_project\2023\C#\Section2-DataTypesAndVariables\Section2-DataTypesAndVariables\bin\Debug\net6.0\Section2-DataTypesAndVariables.dll
+E:\github_project\2023\C#\Section2-DataTypesAndVariables\Section2-DataTypesAndVariables\bin\Debug\net6.0\Section2-DataTypesAndVariables.pdb
+E:\github_project\2023\C#\Section2-DataTypesAndVariables\Section2-DataTypesAndVariables\obj\Debug\net6.0\Section2-DataTypesAndVariables.GeneratedMSBuildEditorConfig.editorconfig
+E:\github_project\2023\C#\Section2-DataTypesAndVariables\Section2-DataTypesAndVariables\obj\Debug\net6.0\Section2-DataTypesAndVariables.AssemblyInfoInputs.cache
+E:\github_project\2023\C#\Section2-DataTypesAndVariables\Section2-DataTypesAndVariables\obj\Debug\net6.0\Section2-DataTypesAndVariables.AssemblyInfo.cs
+E:\github_project\2023\C#\Section2-DataTypesAndVariables\Section2-DataTypesAndVariables\obj\Debug\net6.0\Section2-DataTypesAndVariables.csproj.CoreCompileInputs.cache
+E:\github_project\2023\C#\Section2-DataTypesAndVariables\Section2-DataTypesAndVariables\obj\Debug\net6.0\Section2-DataTypesAndVariables.sourcelink.json
+E:\github_project\2023\C#\Section2-DataTypesAndVariables\Section2-DataTypesAndVariables\obj\Debug\net6.0\Section2-DataTypesAndVariables.dll
+E:\github_project\2023\C#\Section2-DataTypesAndVariables\Section2-DataTypesAndVariables\obj\Debug\net6.0\refint\Section2-DataTypesAndVariables.dll
+E:\github_project\2023\C#\Section2-DataTypesAndVariables\Section2-DataTypesAndVariables\obj\Debug\net6.0\Section2-DataTypesAndVariables.pdb
+E:\github_project\2023\C#\Section2-DataTypesAndVariables\Section2-DataTypesAndVariables\obj\Debug\net6.0\Section2-DataTypesAndVariables.genruntimeconfig.cache
+E:\github_project\2023\C#\Section2-DataTypesAndVariables\Section2-DataTypesAndVariables\obj\Debug\net6.0\ref\Section2-DataTypesAndVariables.dll
