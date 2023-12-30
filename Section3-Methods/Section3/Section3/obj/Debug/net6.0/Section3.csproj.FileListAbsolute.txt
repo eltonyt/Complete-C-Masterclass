@@ -1,0 +1,15 @@
+E:\github_project\2023\C#\Section3-Methods\Section3\Section3\bin\Debug\net6.0\Section3.exe
+E:\github_project\2023\C#\Section3-Methods\Section3\Section3\bin\Debug\net6.0\Section3.deps.json
+E:\github_project\2023\C#\Section3-Methods\Section3\Section3\bin\Debug\net6.0\Section3.runtimeconfig.json
+E:\github_project\2023\C#\Section3-Methods\Section3\Section3\bin\Debug\net6.0\Section3.dll
+E:\github_project\2023\C#\Section3-Methods\Section3\Section3\bin\Debug\net6.0\Section3.pdb
+E:\github_project\2023\C#\Section3-Methods\Section3\Section3\obj\Debug\net6.0\Section3.GeneratedMSBuildEditorConfig.editorconfig
+E:\github_project\2023\C#\Section3-Methods\Section3\Section3\obj\Debug\net6.0\Section3.AssemblyInfoInputs.cache
+E:\github_project\2023\C#\Section3-Methods\Section3\Section3\obj\Debug\net6.0\Section3.AssemblyInfo.cs
+E:\github_project\2023\C#\Section3-Methods\Section3\Section3\obj\Debug\net6.0\Section3.csproj.CoreCompileInputs.cache
+E:\github_project\2023\C#\Section3-Methods\Section3\Section3\obj\Debug\net6.0\Section3.sourcelink.json
+E:\github_project\2023\C#\Section3-Methods\Section3\Section3\obj\Debug\net6.0\Section3.dll
+E:\github_project\2023\C#\Section3-Methods\Section3\Section3\obj\Debug\net6.0\refint\Section3.dll
+E:\github_project\2023\C#\Section3-Methods\Section3\Section3\obj\Debug\net6.0\Section3.pdb
+E:\github_project\2023\C#\Section3-Methods\Section3\Section3\obj\Debug\net6.0\Section3.genruntimeconfig.cache
+E:\github_project\2023\C#\Section3-Methods\Section3\Section3\obj\Debug\net6.0\ref\Section3.dll

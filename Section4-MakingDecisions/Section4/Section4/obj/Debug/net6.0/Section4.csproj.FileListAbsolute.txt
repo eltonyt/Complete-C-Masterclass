@@ -1,0 +1,15 @@
+E:\github_project\2023\C#\Section4-MakingDecisions\Section4\Section4\bin\Debug\net6.0\Section4.exe
+E:\github_project\2023\C#\Section4-MakingDecisions\Section4\Section4\bin\Debug\net6.0\Section4.deps.json
+E:\github_project\2023\C#\Section4-MakingDecisions\Section4\Section4\bin\Debug\net6.0\Section4.runtimeconfig.json
+E:\github_project\2023\C#\Section4-MakingDecisions\Section4\Section4\bin\Debug\net6.0\Section4.dll
+E:\github_project\2023\C#\Section4-MakingDecisions\Section4\Section4\bin\Debug\net6.0\Section4.pdb
+E:\github_project\2023\C#\Section4-MakingDecisions\Section4\Section4\obj\Debug\net6.0\Section4.GeneratedMSBuildEditorConfig.editorconfig
+E:\github_project\2023\C#\Section4-MakingDecisions\Section4\Section4\obj\Debug\net6.0\Section4.AssemblyInfoInputs.cache
+E:\github_project\2023\C#\Section4-MakingDecisions\Section4\Section4\obj\Debug\net6.0\Section4.AssemblyInfo.cs
+E:\github_project\2023\C#\Section4-MakingDecisions\Section4\Section4\obj\Debug\net6.0\Section4.csproj.CoreCompileInputs.cache
+E:\github_project\2023\C#\Section4-MakingDecisions\Section4\Section4\obj\Debug\net6.0\Section4.sourcelink.json
+E:\github_project\2023\C#\Section4-MakingDecisions\Section4\Section4\obj\Debug\net6.0\Section4.dll
+E:\github_project\2023\C#\Section4-MakingDecisions\Section4\Section4\obj\Debug\net6.0\refint\Section4.dll
+E:\github_project\2023\C#\Section4-MakingDecisions\Section4\Section4\obj\Debug\net6.0\Section4.pdb
+E:\github_project\2023\C#\Section4-MakingDecisions\Section4\Section4\obj\Debug\net6.0\Section4.genruntimeconfig.cache
+E:\github_project\2023\C#\Section4-MakingDecisions\Section4\Section4\obj\Debug\net6.0\ref\Section4.dll
