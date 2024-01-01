@@ -1,0 +1,15 @@
+E:\github_project\2023\C#\Section5-Loops\Section5\Section5\bin\Debug\net6.0\Section5.exe
+E:\github_project\2023\C#\Section5-Loops\Section5\Section5\bin\Debug\net6.0\Section5.deps.json
+E:\github_project\2023\C#\Section5-Loops\Section5\Section5\bin\Debug\net6.0\Section5.runtimeconfig.json
+E:\github_project\2023\C#\Section5-Loops\Section5\Section5\bin\Debug\net6.0\Section5.dll
+E:\github_project\2023\C#\Section5-Loops\Section5\Section5\bin\Debug\net6.0\Section5.pdb
+E:\github_project\2023\C#\Section5-Loops\Section5\Section5\obj\Debug\net6.0\Section5.GeneratedMSBuildEditorConfig.editorconfig
+E:\github_project\2023\C#\Section5-Loops\Section5\Section5\obj\Debug\net6.0\Section5.AssemblyInfoInputs.cache
+E:\github_project\2023\C#\Section5-Loops\Section5\Section5\obj\Debug\net6.0\Section5.AssemblyInfo.cs
+E:\github_project\2023\C#\Section5-Loops\Section5\Section5\obj\Debug\net6.0\Section5.csproj.CoreCompileInputs.cache
+E:\github_project\2023\C#\Section5-Loops\Section5\Section5\obj\Debug\net6.0\Section5.sourcelink.json
+E:\github_project\2023\C#\Section5-Loops\Section5\Section5\obj\Debug\net6.0\Section5.dll
+E:\github_project\2023\C#\Section5-Loops\Section5\Section5\obj\Debug\net6.0\refint\Section5.dll
+E:\github_project\2023\C#\Section5-Loops\Section5\Section5\obj\Debug\net6.0\Section5.pdb
+E:\github_project\2023\C#\Section5-Loops\Section5\Section5\obj\Debug\net6.0\Section5.genruntimeconfig.cache
+E:\github_project\2023\C#\Section5-Loops\Section5\Section5\obj\Debug\net6.0\ref\Section5.dll
