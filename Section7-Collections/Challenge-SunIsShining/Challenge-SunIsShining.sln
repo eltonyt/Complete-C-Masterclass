@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge-SunIsShining", "Challenge-SunIsShining\Challenge-SunIsShining.csproj", "{7323078D-4595-4DFD-93D1-A52FB0C20BDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7323078D-4595-4DFD-93D1-A52FB0C20BDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7323078D-4595-4DFD-93D1-A52FB0C20BDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7323078D-4595-4DFD-93D1-A52FB0C20BDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7323078D-4595-4DFD-93D1-A52FB0C20BDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFDC7918-15FB-45A2-B255-A86DAB2D24F4}
+	EndGlobalSection
+EndGlobal

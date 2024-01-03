@@ -1,0 +1,15 @@
+E:\github_project\2023\C#\Section7-Collections\Challenge1-TikTakToe\Challenge1-TikTakToe\bin\Debug\net6.0\Challenge1-TikTakToe.exe
+E:\github_project\2023\C#\Section7-Collections\Challenge1-TikTakToe\Challenge1-TikTakToe\bin\Debug\net6.0\Challenge1-TikTakToe.deps.json
+E:\github_project\2023\C#\Section7-Collections\Challenge1-TikTakToe\Challenge1-TikTakToe\bin\Debug\net6.0\Challenge1-TikTakToe.runtimeconfig.json
+E:\github_project\2023\C#\Section7-Collections\Challenge1-TikTakToe\Challenge1-TikTakToe\bin\Debug\net6.0\Challenge1-TikTakToe.dll
+E:\github_project\2023\C#\Section7-Collections\Challenge1-TikTakToe\Challenge1-TikTakToe\bin\Debug\net6.0\Challenge1-TikTakToe.pdb
+E:\github_project\2023\C#\Section7-Collections\Challenge1-TikTakToe\Challenge1-TikTakToe\obj\Debug\net6.0\Challenge1-TikTakToe.GeneratedMSBuildEditorConfig.editorconfig
+E:\github_project\2023\C#\Section7-Collections\Challenge1-TikTakToe\Challenge1-TikTakToe\obj\Debug\net6.0\Challenge1-TikTakToe.AssemblyInfoInputs.cache
+E:\github_project\2023\C#\Section7-Collections\Challenge1-TikTakToe\Challenge1-TikTakToe\obj\Debug\net6.0\Challenge1-TikTakToe.AssemblyInfo.cs
+E:\github_project\2023\C#\Section7-Collections\Challenge1-TikTakToe\Challenge1-TikTakToe\obj\Debug\net6.0\Challenge1-TikTakToe.csproj.CoreCompileInputs.cache
+E:\github_project\2023\C#\Section7-Collections\Challenge1-TikTakToe\Challenge1-TikTakToe\obj\Debug\net6.0\Challenge1-TikTakToe.sourcelink.json
+E:\github_project\2023\C#\Section7-Collections\Challenge1-TikTakToe\Challenge1-TikTakToe\obj\Debug\net6.0\Challenge1-TikTakToe.dll
+E:\github_project\2023\C#\Section7-Collections\Challenge1-TikTakToe\Challenge1-TikTakToe\obj\Debug\net6.0\refint\Challenge1-TikTakToe.dll
+E:\github_project\2023\C#\Section7-Collections\Challenge1-TikTakToe\Challenge1-TikTakToe\obj\Debug\net6.0\Challenge1-TikTakToe.pdb
+E:\github_project\2023\C#\Section7-Collections\Challenge1-TikTakToe\Challenge1-TikTakToe\obj\Debug\net6.0\Challenge1-TikTakToe.genruntimeconfig.cache
+E:\github_project\2023\C#\Section7-Collections\Challenge1-TikTakToe\Challenge1-TikTakToe\obj\Debug\net6.0\ref\Challenge1-TikTakToe.dll

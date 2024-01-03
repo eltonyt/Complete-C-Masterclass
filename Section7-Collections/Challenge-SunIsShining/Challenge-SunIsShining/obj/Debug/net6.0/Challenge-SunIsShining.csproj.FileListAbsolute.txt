@@ -1,0 +1,15 @@
+E:\github_project\2023\C#\Section7-Collections\Challenge-SunIsShining\Challenge-SunIsShining\bin\Debug\net6.0\Challenge-SunIsShining.exe
+E:\github_project\2023\C#\Section7-Collections\Challenge-SunIsShining\Challenge-SunIsShining\bin\Debug\net6.0\Challenge-SunIsShining.deps.json
+E:\github_project\2023\C#\Section7-Collections\Challenge-SunIsShining\Challenge-SunIsShining\bin\Debug\net6.0\Challenge-SunIsShining.runtimeconfig.json
+E:\github_project\2023\C#\Section7-Collections\Challenge-SunIsShining\Challenge-SunIsShining\bin\Debug\net6.0\Challenge-SunIsShining.dll
+E:\github_project\2023\C#\Section7-Collections\Challenge-SunIsShining\Challenge-SunIsShining\bin\Debug\net6.0\Challenge-SunIsShining.pdb
+E:\github_project\2023\C#\Section7-Collections\Challenge-SunIsShining\Challenge-SunIsShining\obj\Debug\net6.0\Challenge-SunIsShining.GeneratedMSBuildEditorConfig.editorconfig
+E:\github_project\2023\C#\Section7-Collections\Challenge-SunIsShining\Challenge-SunIsShining\obj\Debug\net6.0\Challenge-SunIsShining.AssemblyInfoInputs.cache
+E:\github_project\2023\C#\Section7-Collections\Challenge-SunIsShining\Challenge-SunIsShining\obj\Debug\net6.0\Challenge-SunIsShining.AssemblyInfo.cs
+E:\github_project\2023\C#\Section7-Collections\Challenge-SunIsShining\Challenge-SunIsShining\obj\Debug\net6.0\Challenge-SunIsShining.csproj.CoreCompileInputs.cache
+E:\github_project\2023\C#\Section7-Collections\Challenge-SunIsShining\Challenge-SunIsShining\obj\Debug\net6.0\Challenge-SunIsShining.sourcelink.json
+E:\github_project\2023\C#\Section7-Collections\Challenge-SunIsShining\Challenge-SunIsShining\obj\Debug\net6.0\Challenge-SunIsShining.dll
+E:\github_project\2023\C#\Section7-Collections\Challenge-SunIsShining\Challenge-SunIsShining\obj\Debug\net6.0\refint\Challenge-SunIsShining.dll
+E:\github_project\2023\C#\Section7-Collections\Challenge-SunIsShining\Challenge-SunIsShining\obj\Debug\net6.0\Challenge-SunIsShining.pdb
+E:\github_project\2023\C#\Section7-Collections\Challenge-SunIsShining\Challenge-SunIsShining\obj\Debug\net6.0\Challenge-SunIsShining.genruntimeconfig.cache
+E:\github_project\2023\C#\Section7-Collections\Challenge-SunIsShining\Challenge-SunIsShining\obj\Debug\net6.0\ref\Challenge-SunIsShining.dll

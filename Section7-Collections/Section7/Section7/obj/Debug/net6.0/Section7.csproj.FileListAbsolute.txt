@@ -1,0 +1,15 @@
+E:\github_project\2023\C#\Section7-Collections\Section7\Section7\bin\Debug\net6.0\Section7.exe
+E:\github_project\2023\C#\Section7-Collections\Section7\Section7\bin\Debug\net6.0\Section7.deps.json
+E:\github_project\2023\C#\Section7-Collections\Section7\Section7\bin\Debug\net6.0\Section7.runtimeconfig.json
+E:\github_project\2023\C#\Section7-Collections\Section7\Section7\bin\Debug\net6.0\Section7.dll
+E:\github_project\2023\C#\Section7-Collections\Section7\Section7\bin\Debug\net6.0\Section7.pdb
+E:\github_project\2023\C#\Section7-Collections\Section7\Section7\obj\Debug\net6.0\Section7.GeneratedMSBuildEditorConfig.editorconfig
+E:\github_project\2023\C#\Section7-Collections\Section7\Section7\obj\Debug\net6.0\Section7.AssemblyInfoInputs.cache
+E:\github_project\2023\C#\Section7-Collections\Section7\Section7\obj\Debug\net6.0\Section7.AssemblyInfo.cs
+E:\github_project\2023\C#\Section7-Collections\Section7\Section7\obj\Debug\net6.0\Section7.csproj.CoreCompileInputs.cache
+E:\github_project\2023\C#\Section7-Collections\Section7\Section7\obj\Debug\net6.0\Section7.sourcelink.json
+E:\github_project\2023\C#\Section7-Collections\Section7\Section7\obj\Debug\net6.0\Section7.dll
+E:\github_project\2023\C#\Section7-Collections\Section7\Section7\obj\Debug\net6.0\refint\Section7.dll
+E:\github_project\2023\C#\Section7-Collections\Section7\Section7\obj\Debug\net6.0\Section7.pdb
+E:\github_project\2023\C#\Section7-Collections\Section7\Section7\obj\Debug\net6.0\Section7.genruntimeconfig.cache
+E:\github_project\2023\C#\Section7-Collections\Section7\Section7\obj\Debug\net6.0\ref\Section7.dll
