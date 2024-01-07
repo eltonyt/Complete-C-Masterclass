@@ -66,7 +66,6 @@
     ```
     
 - **params** keyword - any number of arguments
-    - 
     
     ```csharp
     public static int Sum(params int[] numbers) {
@@ -79,3 +78,150 @@
     
     Console.WriteLine(Sum(5, 6, 8));
     ```
+    
+
+### Collections
+
+- Definition
+    - collection of objects
+    - **no limited to one type of objects**
+    - No size constraints
+- Types
+    - **Non-Generic - Any type of objects - Remember: since the element within the arrayList can be different, use object as the type when loop through the arr**
+        
+        ```csharp
+        int num1 = 5;
+        float num2 = 3.14f;
+        ArrayList arr = new ArrayList();
+        arr.Add(num1);
+        arr.Add(num2);
+        
+        foreach (object element in arr) 
+        {
+        	xxxxx;
+        }
+        ```
+        
+    - Generic - one type of objects
+- ArrayList
+    
+    ```csharp
+    // Option 1
+    ArrayList arr = new ArrayList();
+    // Option 2 - with defined number of objects
+    ArrayList arr2 = new ArrayList(100);
+    
+    // Method - Add
+    arr.Add(1);
+    
+    // Method - Remove - specific value from the list (ALl of the element with the save value within the arraylist will be removed.)
+    arr.Remove(1);
+    
+    // Method - RemoveAt - specific value at an index
+    arr.RemoveAt(0);
+    
+    // Method - RemoveRange
+    
+    // Method - Count
+    Console.WriteLine(arr.Count);
+    
+    ```
+    
+- Lists
+    
+    ```csharp
+    var numbers = new List<int>();
+    numbers.add(7);
+    
+    int value = numbers[0];
+    
+    numbers.RemoveAt(0);
+    
+    numbers.Clear(); // Remove all elements from the list 
+    
+    numbers.Count; // Count of elements within the List
+    ```
+    
+- Hashtable
+    
+    ```csharp
+    Hashtable table = new Hashtable();
+    // ADD
+    table.Add(key, value);
+    
+    // GET VALUE
+    value = table[key];
+    
+    // ITERATION
+    foreach (DictionaryEntry entry in table) {
+    	value = entry.value;
+    }
+    
+    // ITERATION
+    foreach (var value in table.value) {
+    	Console.WriteLine(value);
+    }
+    ```
+    
+- Dictionaries - generic collections - not that flexible (Type needs to be defined.)
+    
+    ```csharp
+    Dictionary<int, string> dic = new Dictionary<int, string>()
+    {
+    	{1, "one"},
+    	{2, "two"},
+    	{3, "three"}
+    };
+    
+    // Add
+    dic.Add(4 "four");
+    
+    // CONTAINS
+    if (dict.ContainsKey(key))
+    {
+    	xxxx
+    }
+    
+    // ACCESS VALUE
+    Console.WriteLine(dict[key]);
+    
+    string result;
+    // TRY GET VALUE
+    if (dict.TryGetValue("1", out result)) {
+    	XXX
+    }
+    else {
+    	// NO KEY 1
+    }
+    
+    // COUNT
+    dict.Count
+    
+    // ITERATION
+    for (int i = 0; i < dict.Count; i ++) {
+    	KeyValuePair<int, string> keyValuePair = dict.ElementAt(i);
+    	string value = keyValuePair.Value;
+    	int key = keyValuePair.Key;
+    }
+    
+    // UPDATE THE KEY
+    if (dict.ContainsKey(key)) {
+    	dict[key] = $newValue;
+    }
+    
+    // REMOVE
+    if (dict.Remove(key)) {
+    	Console.WriteLine(key + " is removed.")
+    }
+    ```
+    
+- Stacks
+    - Push(x)
+    - Pop()
+    - Peek()
+    - Count - returns the length of the stack
+- Queues
+    - Enqueue(Object obj)
+    - Dequeue()
+    - Peek()
+    - Count - returns the length of the Queue
