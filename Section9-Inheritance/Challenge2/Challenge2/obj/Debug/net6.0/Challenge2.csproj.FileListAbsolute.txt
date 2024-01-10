@@ -1,0 +1,15 @@
+E:\github_project\2023\C#\Section9-Inheritance\Challenge2\Challenge2\bin\Debug\net6.0\Challenge2.exe
+E:\github_project\2023\C#\Section9-Inheritance\Challenge2\Challenge2\bin\Debug\net6.0\Challenge2.deps.json
+E:\github_project\2023\C#\Section9-Inheritance\Challenge2\Challenge2\bin\Debug\net6.0\Challenge2.runtimeconfig.json
+E:\github_project\2023\C#\Section9-Inheritance\Challenge2\Challenge2\bin\Debug\net6.0\Challenge2.dll
+E:\github_project\2023\C#\Section9-Inheritance\Challenge2\Challenge2\bin\Debug\net6.0\Challenge2.pdb
+E:\github_project\2023\C#\Section9-Inheritance\Challenge2\Challenge2\obj\Debug\net6.0\Challenge2.GeneratedMSBuildEditorConfig.editorconfig
+E:\github_project\2023\C#\Section9-Inheritance\Challenge2\Challenge2\obj\Debug\net6.0\Challenge2.AssemblyInfoInputs.cache
+E:\github_project\2023\C#\Section9-Inheritance\Challenge2\Challenge2\obj\Debug\net6.0\Challenge2.AssemblyInfo.cs
+E:\github_project\2023\C#\Section9-Inheritance\Challenge2\Challenge2\obj\Debug\net6.0\Challenge2.csproj.CoreCompileInputs.cache
+E:\github_project\2023\C#\Section9-Inheritance\Challenge2\Challenge2\obj\Debug\net6.0\Challenge2.sourcelink.json
+E:\github_project\2023\C#\Section9-Inheritance\Challenge2\Challenge2\obj\Debug\net6.0\Challenge2.dll
+E:\github_project\2023\C#\Section9-Inheritance\Challenge2\Challenge2\obj\Debug\net6.0\refint\Challenge2.dll
+E:\github_project\2023\C#\Section9-Inheritance\Challenge2\Challenge2\obj\Debug\net6.0\Challenge2.pdb
+E:\github_project\2023\C#\Section9-Inheritance\Challenge2\Challenge2\obj\Debug\net6.0\Challenge2.genruntimeconfig.cache
+E:\github_project\2023\C#\Section9-Inheritance\Challenge2\Challenge2\obj\Debug\net6.0\ref\Challenge2.dll
