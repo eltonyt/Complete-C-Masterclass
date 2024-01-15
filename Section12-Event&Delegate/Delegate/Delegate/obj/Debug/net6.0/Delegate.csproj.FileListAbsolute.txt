@@ -1,0 +1,15 @@
+E:\github_project\2023\C#\Section12-Event&Delegate\Delegate\Delegate\bin\Debug\net6.0\Delegate.exe
+E:\github_project\2023\C#\Section12-Event&Delegate\Delegate\Delegate\bin\Debug\net6.0\Delegate.deps.json
+E:\github_project\2023\C#\Section12-Event&Delegate\Delegate\Delegate\bin\Debug\net6.0\Delegate.runtimeconfig.json
+E:\github_project\2023\C#\Section12-Event&Delegate\Delegate\Delegate\bin\Debug\net6.0\Delegate.dll
+E:\github_project\2023\C#\Section12-Event&Delegate\Delegate\Delegate\bin\Debug\net6.0\Delegate.pdb
+E:\github_project\2023\C#\Section12-Event&Delegate\Delegate\Delegate\obj\Debug\net6.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+E:\github_project\2023\C#\Section12-Event&Delegate\Delegate\Delegate\obj\Debug\net6.0\Delegate.AssemblyInfoInputs.cache
+E:\github_project\2023\C#\Section12-Event&Delegate\Delegate\Delegate\obj\Debug\net6.0\Delegate.AssemblyInfo.cs
+E:\github_project\2023\C#\Section12-Event&Delegate\Delegate\Delegate\obj\Debug\net6.0\Delegate.csproj.CoreCompileInputs.cache
+E:\github_project\2023\C#\Section12-Event&Delegate\Delegate\Delegate\obj\Debug\net6.0\Delegate.sourcelink.json
+E:\github_project\2023\C#\Section12-Event&Delegate\Delegate\Delegate\obj\Debug\net6.0\Delegate.dll
+E:\github_project\2023\C#\Section12-Event&Delegate\Delegate\Delegate\obj\Debug\net6.0\refint\Delegate.dll
+E:\github_project\2023\C#\Section12-Event&Delegate\Delegate\Delegate\obj\Debug\net6.0\Delegate.pdb
+E:\github_project\2023\C#\Section12-Event&Delegate\Delegate\Delegate\obj\Debug\net6.0\Delegate.genruntimeconfig.cache
+E:\github_project\2023\C#\Section12-Event&Delegate\Delegate\Delegate\obj\Debug\net6.0\ref\Delegate.dll

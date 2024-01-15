@@ -1,0 +1,15 @@
+E:\github_project\2023\C#\Section11-AdvancedTopic\Assignment3\Assignment3\bin\Debug\net6.0\Assignment3.exe
+E:\github_project\2023\C#\Section11-AdvancedTopic\Assignment3\Assignment3\bin\Debug\net6.0\Assignment3.deps.json
+E:\github_project\2023\C#\Section11-AdvancedTopic\Assignment3\Assignment3\bin\Debug\net6.0\Assignment3.runtimeconfig.json
+E:\github_project\2023\C#\Section11-AdvancedTopic\Assignment3\Assignment3\bin\Debug\net6.0\Assignment3.dll
+E:\github_project\2023\C#\Section11-AdvancedTopic\Assignment3\Assignment3\bin\Debug\net6.0\Assignment3.pdb
+E:\github_project\2023\C#\Section11-AdvancedTopic\Assignment3\Assignment3\obj\Debug\net6.0\Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+E:\github_project\2023\C#\Section11-AdvancedTopic\Assignment3\Assignment3\obj\Debug\net6.0\Assignment3.AssemblyInfoInputs.cache
+E:\github_project\2023\C#\Section11-AdvancedTopic\Assignment3\Assignment3\obj\Debug\net6.0\Assignment3.AssemblyInfo.cs
+E:\github_project\2023\C#\Section11-AdvancedTopic\Assignment3\Assignment3\obj\Debug\net6.0\Assignment3.csproj.CoreCompileInputs.cache
+E:\github_project\2023\C#\Section11-AdvancedTopic\Assignment3\Assignment3\obj\Debug\net6.0\Assignment3.sourcelink.json
+E:\github_project\2023\C#\Section11-AdvancedTopic\Assignment3\Assignment3\obj\Debug\net6.0\Assignment3.dll
+E:\github_project\2023\C#\Section11-AdvancedTopic\Assignment3\Assignment3\obj\Debug\net6.0\refint\Assignment3.dll
+E:\github_project\2023\C#\Section11-AdvancedTopic\Assignment3\Assignment3\obj\Debug\net6.0\Assignment3.pdb
+E:\github_project\2023\C#\Section11-AdvancedTopic\Assignment3\Assignment3\obj\Debug\net6.0\Assignment3.genruntimeconfig.cache
+E:\github_project\2023\C#\Section11-AdvancedTopic\Assignment3\Assignment3\obj\Debug\net6.0\ref\Assignment3.dll
