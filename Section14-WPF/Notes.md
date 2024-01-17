@@ -205,7 +205,7 @@ private void Button_Click(object sender, RoutedEventArgs e)
 
 ### Data Binding
 
-- One-way Data Binding
+- One-way Data Binding - Showing the data on the screen, cannot read data user entered
     
     ```csharp
     <Window x:Class="DataBinding.MainWindow"
@@ -245,4 +245,233 @@ private void Button_Click(object sender, RoutedEventArgs e)
             <Button Grid.Column="1" Grid.Row="4" Grid.ColumnSpan="2"  Content="Info" Click="Button_Click" />
         </Grid>
     </Window>
+    ```
+    
+- Two-way Data Binding - Default data from c# file, data can be updated through UI.
+    
+    ```csharp
+    <Window x:Class="DataBinding.MainWindow"
+            xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+            xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+            xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+            xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+            xmlns:local="clr-namespace:DataBinding"
+            mc:Ignorable="d"
+            Title="Data Binding" Height="150" Width="265">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height = "10" />
+                <RowDefinition Height = "Auto" />
+                <RowDefinition Height = "Auto" />
+                <RowDefinition Height = "10" />
+                <RowDefinition Height = "*" />
+                <RowDefinition Height = "10" />
+            </Grid.RowDefinitions>
+    
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width = "10" />
+                <ColumnDefinition Width = "Auto" />
+                <ColumnDefinition Width = "*" />
+                <ColumnDefinition Width = "10" />
+    
+            </Grid.ColumnDefinitions>
+    
+            <Label Grid.Row="1" Grid.Column="1" Margin="2" Content="Name"/>
+    
+            **<TextBox Text="{Binding Path=Name, Mode=TwoWay}" Grid.Row="1" Grid.Column="2" Margin="2" />**
+    
+            <Label Content="Age" Margin="2" Grid.Column="1" Grid.Row="2" />
+    
+            **<TextBox Text="{Binding Path=Age, Mode=TwoWay}" Grid.Column="2" Grid.Row="2" Margin="2"/>**
+    
+            <Button Grid.Column="1" Grid.Row="4" Grid.ColumnSpan="2"  Content="Info" Click="Button_Click" />
+        </Grid>
+    </Window>
+    ```
+    
+- OneWayToSource Data Binding - Data come from UI. Cannot read data from c# file to UI.
+    
+    ```csharp
+    <Window x:Class="DataBinding.MainWindow"
+            xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+            xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+            xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+            xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+            xmlns:local="clr-namespace:DataBinding"
+            mc:Ignorable="d"
+            Title="Data Binding" Height="150" Width="265">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height = "10" />
+                <RowDefinition Height = "Auto" />
+                <RowDefinition Height = "Auto" />
+                <RowDefinition Height = "10" />
+                <RowDefinition Height = "*" />
+                <RowDefinition Height = "10" />
+            </Grid.RowDefinitions>
+    
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width = "10" />
+                <ColumnDefinition Width = "Auto" />
+                <ColumnDefinition Width = "*" />
+                <ColumnDefinition Width = "10" />
+    
+            </Grid.ColumnDefinitions>
+    
+            <Label Grid.Row="1" Grid.Column="1" Margin="2" Content="Name"/>
+    
+            **<TextBox Text="{Binding Path=Name, Mode=OneWayToSource}" Grid.Row="1" Grid.Column="2" Margin="2" />**
+    
+            <Label Content="Age" Margin="2" Grid.Column="1" Grid.Row="2" />
+    
+            **<TextBox Text="{Binding Path=Age, Mode=OneWayToSource}" Grid.Column="2" Grid.Row="2" Margin="2"/>**
+    
+            <Button Grid.Column="1" Grid.Row="4" Grid.ColumnSpan="2"  Content="Info" Click="Button_Click" />
+        </Grid>
+    </Window>
+    ```
+    
+- OneTimeDataBinding - Things can only be updated one time. (Single Time Data Update)
+    
+    ```csharp
+    <Window x:Class="DataBinding.MainWindow"
+            xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+            xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+            xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+            xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+            xmlns:local="clr-namespace:DataBinding"
+            mc:Ignorable="d"
+            Title="Data Binding" Height="150" Width="265">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height = "10" />
+                <RowDefinition Height = "Auto" />
+                <RowDefinition Height = "Auto" />
+                <RowDefinition Height = "10" />
+                <RowDefinition Height = "*" />
+                <RowDefinition Height = "10" />
+            </Grid.RowDefinitions>
+    
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width = "10" />
+                <ColumnDefinition Width = "Auto" />
+                <ColumnDefinition Width = "*" />
+                <ColumnDefinition Width = "10" />
+    
+            </Grid.ColumnDefinitions>
+    
+            <Label Grid.Row="1" Grid.Column="1" Margin="2" Content="Name"/>
+    
+            **<TextBox Text="{Binding Path=Name, Mode=OneTime}" Grid.Row="1" Grid.Column="2" Margin="2" />**
+    
+            <Label Content="Age" Margin="2" Grid.Column="1" Grid.Row="2" />
+    
+            **<TextBox Text="{Binding Path=Age, Mode=OneTime}" Grid.Column="2" Grid.Row="2" Margin="2"/>**
+    
+            <Button Grid.Column="1" Grid.Row="4" Grid.ColumnSpan="2"  Content="Info" Click="Button_Click" />
+        </Grid>
+    </Window>
+    ```
+    
+
+### ListBox
+
+```csharp
+// XAML
+<Grid>
+    <Grid.RowDefinitions>
+        <RowDefinition Height="10"></RowDefinition>
+        <RowDefinition Height="*"></RowDefinition>
+        <RowDefinition Height="10"></RowDefinition>
+    </Grid.RowDefinitions>
+
+    <Grid.ColumnDefinitions>
+        <ColumnDefinition Width="10"></ColumnDefinition>
+        <ColumnDefinition Width="*"></ColumnDefinition>
+        <ColumnDefinition Width="10"></ColumnDefinition>
+    </Grid.ColumnDefinitions>
+
+    <ListBox x:Name="ListBoxNames" Grid.Column="1" Grid.Row="1"></ListBox>
+</Grid>
+
+// C#
+public MainWindow()
+{
+    InitializeComponent();
+    ListBoxNames.ItemsSource = new List<string>()
+    {
+        "Elton",
+        "Jane",
+        "Marc"
+    };
+}
+```
+
+- ListBox ItemTemplate - Similar to the Items in Vue
+    
+    ```csharp
+    // XAML FILE
+    <ListBox x:Name="ListBoxPeople" Grid.Column="1" Grid.Row="1">
+        <ListBox.ItemTemplate>
+            <DataTemplate>
+                <StackPanel>
+                    <TextBlock Text="{Binding Name, StringFormat ='Name: {0}'}"></TextBlock>
+                    <TextBlock Text="{Binding Age, StringFormat ='Age: {0}'}"></TextBlock>
+                </StackPanel>
+            </DataTemplate>
+        </ListBox.ItemTemplate>
+    </ListBox>
+    ```
+    
+- Accessing selected data
+    - Multiple
+    - Single
+    
+    ```csharp
+    <ListBox x:Name="ListBoxPeople" SelectionMode="Multiple" Grid.Column="1" Grid.Row="1">
+        <ListBox.ItemTemplate>
+            <DataTemplate>
+                <StackPanel>
+                    <TextBlock Text="{Binding Name, StringFormat ='Name: {0}'}"></TextBlock>
+                    <TextBlock Text="{Binding Age, StringFormat ='Age: {0}'}"></TextBlock>
+                </StackPanel>
+            </DataTemplate>
+        </ListBox.ItemTemplate>
+    </ListBox>
+    ```
+    
+
+### Password Box
+
+```csharp
+// XAML
+<PasswordBox Grid.Column="1" Grid.Row="3" Width="300" Height="30" x:Name="PasswordBox"></PasswordBox>
+
+// C#
+private void Login(object sender, RoutedEventArgs e)
+        {
+            string passwordEntered = PasswordBox.Password;
+            if (passwordEntered != correctPassword)
+            {
+                MessageBox.Show("Incorrect Password. Please try again.");
+            }
+            else
+            {
+                MessageBox.Show("Successfully Logged in.");
+            }
+        }
+```
+
+- Password change event
+    
+    ```csharp
+    // XAML
+    <PasswordBox PasswordChanged="PasswordBox_PasswordChanged" Grid.Column="1" Grid.Row="3" Width="300" Height="30" x:Name="PasswordBox"></PasswordBox>
+    <Button Click="Login" x:Name="LoginButton" Grid.Column="1" Grid.Row="5" Width="150" Height="30" IsEnabled="False">Login</Button>
+    
+    // C#
+    private void PasswordBox_PasswordChanged(object sender, RoutedEventArgs e)
+    {
+        LoginButton.IsEnabled = !string.IsNullOrEmpty(PasswordBox.Password);
+    }
     ```

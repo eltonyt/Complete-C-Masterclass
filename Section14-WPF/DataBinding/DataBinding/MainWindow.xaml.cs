@@ -32,7 +32,8 @@ namespace DataBinding
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Hello World");
+            string personData = Person.Name + " is " + Person.Age + " years old.";
+            MessageBox.Show(personData);
         }
     }
 }
