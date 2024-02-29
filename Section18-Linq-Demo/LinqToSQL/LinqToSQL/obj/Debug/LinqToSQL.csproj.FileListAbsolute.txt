@@ -1,0 +1,15 @@
+E:\github_project\2023\C#\Section18-Linq-Demo\LinqToSQL\LinqToSQL\bin\Debug\LinqToSQL.exe.config
+E:\github_project\2023\C#\Section18-Linq-Demo\LinqToSQL\LinqToSQL\bin\Debug\LinqToSQL.exe
+E:\github_project\2023\C#\Section18-Linq-Demo\LinqToSQL\LinqToSQL\bin\Debug\LinqToSQL.pdb
+E:\github_project\2023\C#\Section18-Linq-Demo\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL.csproj.AssemblyReference.cache
+E:\github_project\2023\C#\Section18-Linq-Demo\LinqToSQL\LinqToSQL\obj\Debug\MainWindow.g.cs
+E:\github_project\2023\C#\Section18-Linq-Demo\LinqToSQL\LinqToSQL\obj\Debug\App.g.cs
+E:\github_project\2023\C#\Section18-Linq-Demo\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL_MarkupCompile.cache
+E:\github_project\2023\C#\Section18-Linq-Demo\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL_MarkupCompile.lref
+E:\github_project\2023\C#\Section18-Linq-Demo\LinqToSQL\LinqToSQL\obj\Debug\MainWindow.baml
+E:\github_project\2023\C#\Section18-Linq-Demo\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL.g.resources
+E:\github_project\2023\C#\Section18-Linq-Demo\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL.Properties.Resources.resources
+E:\github_project\2023\C#\Section18-Linq-Demo\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL.csproj.GenerateResource.cache
+E:\github_project\2023\C#\Section18-Linq-Demo\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL.csproj.CoreCompileInputs.cache
+E:\github_project\2023\C#\Section18-Linq-Demo\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL.exe
+E:\github_project\2023\C#\Section18-Linq-Demo\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL.pdb
