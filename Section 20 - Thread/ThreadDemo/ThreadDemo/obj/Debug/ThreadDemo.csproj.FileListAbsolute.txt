@@ -1,0 +1,7 @@
+E:\github_project\2023\C#\Section 20 - Thread\ThreadDemo\ThreadDemo\bin\Debug\ThreadDemo.exe.config
+E:\github_project\2023\C#\Section 20 - Thread\ThreadDemo\ThreadDemo\bin\Debug\ThreadDemo.exe
+E:\github_project\2023\C#\Section 20 - Thread\ThreadDemo\ThreadDemo\bin\Debug\ThreadDemo.pdb
+E:\github_project\2023\C#\Section 20 - Thread\ThreadDemo\ThreadDemo\obj\Debug\ThreadDemo.csproj.AssemblyReference.cache
+E:\github_project\2023\C#\Section 20 - Thread\ThreadDemo\ThreadDemo\obj\Debug\ThreadDemo.csproj.CoreCompileInputs.cache
+E:\github_project\2023\C#\Section 20 - Thread\ThreadDemo\ThreadDemo\obj\Debug\ThreadDemo.exe
+E:\github_project\2023\C#\Section 20 - Thread\ThreadDemo\ThreadDemo\obj\Debug\ThreadDemo.pdb
